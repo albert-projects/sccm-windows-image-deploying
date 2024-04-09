@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MSDeploy.IisApp MSDeploy.ObjectResolver.createApp="Microsoft.Web.Deployment.CreateApplicationObjectResolver" MSDeploy.ObjectResolver.dirPath="Microsoft.Web.Deployment.DirPathObjectResolver" MSDeploy.ObjectResolver.filePath="Microsoft.Web.Deployment.FilePathObjectResolver">
+  <iisApp path="mdt" MSDeploy.path="2" MSDeploy.MSDeployLinkName="Child1" MSDeploy.MSDeployKeyAttributeName="path" MSDeploy.MSDeployProviderOptions="H4sIAAAAAAAEAE2PzQrCMBCEW2sDohffoA9QgrVWvfQgehN/DqIHT6ldMZgmIT+KT68JFHUOs8PC8s0GYRAEbyc/vQYdZ+cNvSihxdXgJ1S4BsnEqwFu0uQISlPByxnO8AiP0mRpmbEKSg7WKMLSZG8rRi9reB3EHXiZZ9U1nxdTUufTCeRF7EnjH+DkAKsv4C/ulXjQGtROGgfUXV9OtrstaaAribnF3CWNHoRZ0GGIkK+PIm+U6oWUyN9FTW16sQs95GwYt78OURv6HzkSp4AHAQAA">
+    <createApp path="mdt" MSDeploy.path="2" isDest="AA==" MSDeploy.isDest.Type="Microsoft.Web.Deployment.DeploymentObjectBooleanAttributeValue" managedRuntimeVersion="v4.0" MSDeploy.managedRuntimeVersion="2" enable32BitAppOnWin64="" MSDeploy.enable32BitAppOnWin64="2" managedPipelineMode="" MSDeploy.managedPipelineMode="2" applicationPool="mdt" MSDeploy.applicationPool="1" appExists="True" MSDeploy.appExists="1" MSDeploy.MSDeployLinkName="createApp" MSDeploy.MSDeployKeyAttributeName="path" />
+    <contentPath path="mdt" MSDeploy.path="2" MSDeploy.MSDeployLinkName="contentPath" MSDeploy.MSDeployKeyAttributeName="path" MSDeploy.MSDeployProviderOptions="H4sIAAAAAAAEAE2Pyw6CQAxFQWESoxv+gA8gExFfG1a6Mz4WRheuBqiROMyQeWj8eu0kRO3i9qZpe1rP9zzvjeGyi1EP5bKtSyW1vBr6hIJW0HL5akCYJD6B0rUU+YKmdEzHSbyy3FgFuQBrFONJfLAFr8sNvI7yDiLP0uKaLWdzVmXzKWSz0JEmP8AZAesv4M8elHzUFah9axCoA3dc29V2rIGgZeYWCnSaPBi3oH2fEHc+6aMMSymMW4NdxA33m8oMQjQDghKF3cMR6czwAwy6DVAMAQAA">
+      <MSDeploy.dirPath path="mdt" MSDeploy.MSDeployLinkName="contentPath" />
+    </contentPath>
+  </iisApp>
+</MSDeploy.IisApp>
