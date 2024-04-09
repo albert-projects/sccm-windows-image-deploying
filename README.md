@@ -27,7 +27,7 @@
 <li>The deployment process will automatically commence upon booting up the machine, deploying the Windows SOE and predefined applications.</li>
 <li>Monitor the deployment progress and verify successful completion.</li>
 </ol>
-<p>For more detailed information, please refer to the <strong>ProjectDocument.docx</strong> included in the repository.</p>
+<p>For more detailed information, please refer to the <strong><a href="https://github.com/albert-projects/sccm-windows-image-deploying/blob/master/ProjectDocument.docx">ProjectDocument.docx</a></strong> included in the repository.</p>
 <h2 id="technologies-used">Technologies Used</h2>
 <ul>
 <li>Microsoft SCCM</li>
