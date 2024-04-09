@@ -36,6 +36,7 @@
 <li>PowerShell</li>
 <li>PDQ</li>
 </ul>
+<p><img src="https://github.com/albert-projects/sccm-windows-image-deploying/blob/master/screenshot1.png" alt="Screenshot"></p>
 <h2 id="contributions">Contributions</h2>
 <p>Contributions aimed at enhancing the deployment system or addressing issues are welcome. Please submit pull requests or open issues for further discussion and collaboration.</p>
 <h2 id="license">License</h2>
